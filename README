@@ -1,0 +1,13 @@
+You got a dark mode IDE and submissions demand a white background? Got that covered !
+
+Invert images with a shell script with python and save it automatically in a resultant folder
+
+INSTRUCTIONS:
+Create a directory in the same folder this is cloned and name it "inverted"
+
+
+Shell command:
+sh invert.sh your_image.png
+
+Tags:
+invert image, python invert image, shell scripting image inversion, invert image in python
